@@ -1,3 +1,6 @@
+#reference: https://www.analyticsvidhya.com/blog/2021/04/generate-your-own-dataset-using-gan/
+#my thanks to Syed Abdul Gaffar Shakhadri
+
 import tensorflow as tf
 from tensorflow.keras.layers import Input, Reshape, Dropout, Dense 
 from tensorflow.keras.layers import Flatten, BatchNormalization
